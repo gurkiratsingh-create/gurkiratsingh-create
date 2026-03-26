@@ -187,7 +187,7 @@ class MLEngineer:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh-create&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh-create&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
 <br>
