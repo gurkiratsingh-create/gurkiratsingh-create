@@ -23,21 +23,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 ```python
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```python
 class MLEngineer:
     def __init__(self):
         self.name = "Gurkirat Singh Bhangoo"
-        self.role = "Aspiring ML Engineer"
+        self.role = "Aspiring Machine Learning Engineer"
         self.location = "Punjab, India"
         self.education = "B.Tech in AI & ML"
+
     def current_focus(self):
         return [
             "Risk Prediction Systems",
-            "Machine Learning Models",
+            "Feature Engineering & Model Optimization",
             "Data Analysis & Visualization",
-            "Educational ML Projects"
-        ] 
+            "End-to-End ML Pipelines"
+        ]
+
     def goals(self):
-        return "Building production-ready ML systems"
+        return "Building production-ready, scalable ML systems"
+```
+
 
 <br clear="both">
 
