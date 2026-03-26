@@ -1,81 +1,248 @@
-<!-- 🔥 BANNER -->
+<!-- ANIMATED HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Gurkirat%20Singh%20Bhangoo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
+<!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gurkirat%20Singh&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Machine+Learning+Engineer+in+Making+%F0%9F%9A%80;Building+Real-World+AI+Solutions+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- 👋 INTRO -->
-
-<h1 align="center">Hi 👋, I'm Gurkirat Singh Bhangoo</h1>
-<h3 align="center">🚀 Aspiring Artificial Intelligence & Machine Learning Engineer | Python Developer</h3>
-
-<!-- ⚡ TYPING EFFECT -->
-
+<!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Future+ML+Engineer" />
-</p>
-
----
-
-## 🧠 About Me
-
-* 🎯 Focused on becoming a **Machine Learning Engineer**
-* 📊 Love working on **data, models & real-world problems**
-* 🚀 Currently building: **Risk Prediction System**
-* 💡 Learning: **EDA, Feature Engineering, Model Optimization**
-* ⚡ Goal: **Product-based company (MNC)**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
+  <img src="https://komarev.com/ghpvc/?username=gurkiratsingh-create&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gurkiratsingh-create?label=Followers&style=for-the-badge&color=00F7FF" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge" alt="focus" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Gurkirat Singh Bhangoo"
+        self.role = "Aspiring ML Engineer"
+        self.location = "Punjab, India"
+        self.education = "B.Tech in AI & ML"
+        
+    def current_focus(self):
+        return [
+            "Risk Prediction Systems",
+            "Feature Engineering",
+            "Model Optimization",
+            "Deep Learning"
+        ]
+    
+    def goals(self):
+        return "Building production-ready ML systems"
+```
+
+<br>
+
+- 🔭 Currently building: **Risk Prediction System** using ML
+- 🌱 Learning: **Deep Learning, MLOps, Model Deployment**
+- 🎯 Goal: **ML Engineer at Product-Based MNC**
+- 💬 Ask me about: **Python, Machine Learning, Data Analytics**
+- ⚡ Fun fact: **I debug by explaining code to my rubber duck 🦆**
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 ML/AI & Data Science</b></summary>
+<br>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔥 Risk Prediction System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
 
-* ML-based system to predict risk dynamically
-* Includes data processing + model building
+**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
 
-### 📊 Student Marks Analytics
+📌 ML-based risk prediction with feature engineering  
+📌 Dynamic model training & evaluation  
+📌 Real-world dataset processing  
 
-* Python-based analytics system using JSON
-* Focus on structured data handling
+</td>
+<td width="50%">
 
-### 🤖 Greedy Algorithms Visualizer
+### 📊 Student Analytics System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=student-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
 
-* Implementation of classic algorithms
-* Helps in understanding optimization logic
+**Tech Stack:** `Python` `JSON` `Data Analysis`
+
+📌 Structured data handling & insights  
+📌 Performance metrics visualization  
+📌 JSON-based storage system  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Algorithm Visualizer
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=greedy-algo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
+
+**Tech Stack:** `Python` `Algorithms` `Optimization`
+
+📌 Classic greedy algorithm implementation  
+📌 Visual optimization demonstrations  
+📌 Educational tool for DSA  
+
+</td>
+<td width="50%">
+
+### 💡 More Projects Coming Soon...
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+**Currently Working On:**
+- Deep Learning Models
+- MLOps Pipeline
+- Computer Vision Projects
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-create&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh-create&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-create&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh-create&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</div>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [gurkiratsingh.05.54@gmail.com](mailto:gurkiratsingh.05.54@gmail.com)
-* 💼 LinkedIn: (add your link here)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurkiratsingh-create&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%">
+</div>
 
 ---
 
-<p align="center">✨ “Building projects that solve real problems” ✨</p>
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gurkiratsingh-create&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurkiratsingh-create/gurkiratsingh-create/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurkiratsingh-create/gurkiratsingh-create/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gurkiratsingh-create/gurkiratsingh-create/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📈 **Learning Journey**
+```mermaid
+graph LR
+    A[Python Basics] --> B[Data Structures]
+    B --> C[Machine Learning]
+    C --> D[Deep Learning]
+    D --> E[MLOps]
+    E --> F[Production ML Systems]
+    
+    style A fill:#0D1117,stroke:#00F7FF
+    style B fill:#0D1117,stroke:#00F7FF
+    style C fill:#0D1117,stroke:#00F7FF
+    style D fill:#0D1117,stroke:#00F7FF
+    style E fill:#0D1117,stroke:#00F7FF
+    style F fill:#0D1117,stroke:#00F7FF
+```
+
+---
+
+## 🤝 **Connect With Me**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-gurkiratsingh.05.54%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurkiratsingh.05.54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gurkiratsingh-create)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **Quote of the Day**
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker)
+
+### ✨ **"Transforming Data into Intelligence, One Model at a Time"** ✨
+
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
