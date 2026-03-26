@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 **About Me**
+## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 ```python
@@ -29,8 +29,8 @@ class MLEngineer:
         self.role = "Aspiring ML Engineer"
         self.location = "Punjab, India"
         self.education = "B.Tech in AI & ML"
-        
-    def current_focus(self):
+  ```   
+  def current_focus(self):
         return [
             "Risk Prediction Systems",
             "Feature Engineering",
@@ -38,11 +38,10 @@ class MLEngineer:
             "Deep Learning"
         ]
     
-    def goals(self):
+  def goals(self):
         return "Building production-ready ML systems"
-```
 
-<br>
+<br clear="both">
 
 - 🔭 Currently building: **Risk Prediction System** using ML
 - 🌱 Learning: **Deep Learning, MLOps, Model Deployment**
@@ -52,22 +51,16 @@ class MLEngineer:
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ Tech Arsenal
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🤖 ML/AI & Data Science</b></summary>
-<br>
+### 🤖 ML/AI & Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -76,11 +69,7 @@ class MLEngineer:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Technologies</b></summary>
-<br>
+### 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -88,93 +77,46 @@ class MLEngineer:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</details>
-
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Risk Prediction System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
-
-📌 ML-based risk prediction with feature engineering  
-📌 Dynamic model training & evaluation  
-📌 Real-world dataset processing  
-
-</td>
-<td width="50%">
-
-### 📊 Student Analytics System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=student-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
-
-**Tech Stack:** `Python` `JSON` `Data Analysis`
-
-📌 Structured data handling & insights  
-📌 Performance metrics visualization  
-📌 JSON-based storage system  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Algorithm Visualizer
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=greedy-algo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create)
-
-**Tech Stack:** `Python` `Algorithms` `Optimization`
-
-📌 Classic greedy algorithm implementation  
-📌 Visual optimization demonstrations  
-📌 Educational tool for DSA  
-
-</td>
-<td width="50%">
-
-### 💡 More Projects Coming Soon...
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
-
-**Currently Working On:**
-- Deep Learning Models
-- MLOps Pipeline
-- Computer Vision Projects
-
-</td>
-</tr>
-</table>
+| 🔥 Risk Prediction System | 📊 Student Analytics System |
+|:-------------------------:|:---------------------------:|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=risk-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=student-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create) |
+| **Tech:** `Python` `Scikit-learn` `Pandas` `NumPy` | **Tech:** `Python` `JSON` `Data Analysis` |
+| 📌 ML-based risk prediction<br>📌 Feature engineering<br>📌 Real-world dataset processing | 📌 Structured data handling<br>📌 Performance metrics<br>📌 JSON-based storage |
+| **🤖 Algorithm Visualizer** | **💡 Coming Soon** |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=greedy-algo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gurkiratsingh-create) | <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"> |
+| **Tech:** `Python` `Algorithms` `Optimization` | **Currently Working On:**<br>• Deep Learning Models<br>• MLOps Pipeline<br>• Computer Vision |
+| 📌 Greedy algorithm implementation<br>📌 Visual optimization demos<br>📌 Educational DSA tool |  |
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gurkiratsingh-create&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkiratsingh-create&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurkiratsingh-create&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurkiratsingh-create&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%">
@@ -182,7 +124,7 @@ class MLEngineer:
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gurkiratsingh-create&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
@@ -190,7 +132,7 @@ class MLEngineer:
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -202,7 +144,7 @@ class MLEngineer:
 
 ---
 
-## 📈 **Learning Journey**
+## 📈 Learning Journey
 ```mermaid
 graph LR
     A[Python Basics] --> B[Data Structures]
@@ -221,7 +163,7 @@ graph LR
 
 ---
 
-## 🤝 **Connect With Me**
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -236,11 +178,11 @@ graph LR
 
 <div align="center">
   
-### 💭 **Quote of the Day**
+### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ✨ **"Transforming Data into Intelligence, One Model at a Time"** ✨
+### ✨ "Transforming Data into Intelligence, One Model at a Time" ✨
 
 </div>
 
