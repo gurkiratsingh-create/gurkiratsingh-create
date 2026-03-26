@@ -29,15 +29,13 @@ class MLEngineer:
         self.role = "Aspiring ML Engineer"
         self.location = "Punjab, India"
         self.education = "B.Tech in AI & ML"
-``` 
     def current_focus(self):
         return [
             "Risk Prediction Systems",
             "Machine Learning Models",
             "Data Analysis & Visualization",
             "Educational ML Projects"
-        ]
- ```   
+        ] 
     def goals(self):
         return "Building production-ready ML systems"
 
