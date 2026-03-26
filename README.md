@@ -85,7 +85,7 @@ class MLEngineer:
     <h3 align="center">🏆 Champions League ML</h3>
     <div align="center">  
       <a href="https://github.com/gurkiratsingh-create/champions_league_ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=champions_league_ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=Champions-League-ML-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
       </a>
       <br><br>
       <p><strong>Python • Machine Learning • Sports Analytics</strong></p>
@@ -97,7 +97,7 @@ class MLEngineer:
     <h3 align="center">💳 Credit Risk ML</h3>
     <div align="center">  
       <a href="https://github.com/gurkiratsingh-create/credit-risk-cost-sensitive-ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=credit-risk-cost-sensitive-ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=credit_risk_cost_sensitive_ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
       </a>
       <br><br>
       <p><strong>Python • Scikit-learn • Risk Analysis</strong></p>
@@ -123,7 +123,7 @@ class MLEngineer:
     <h3 align="center">📈 Customer Churn ML</h3>
     <div align="center">  
       <a href="https://github.com/gurkiratsingh-create/customer-churn-ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=customer-churn-ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=customer_churn_analysis&theme=tokyonight&hide_border=true&bg_color=0D1117" />
       </a>
       <br><br>
       <p><strong>Python • Predictive Analytics • Business</strong></p>
@@ -137,7 +137,7 @@ class MLEngineer:
     <h3 align="center">🎓 Students Marks Management</h3>
     <div align="center">  
       <a href="https://github.com/gurkiratsingh-create/students-marks-management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=students-marks-management&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=student-marks-management&theme=tokyonight&hide_border=true&bg_color=0D1117" />
       </a>
       <br><br>
       <p><strong>Python • JSON • Data Management</strong></p>
@@ -159,17 +159,6 @@ class MLEngineer:
 </tr>
 
 <tr>
-  <td width="50%">
-    <h3 align="center">🎮 Code Relay</h3>
-    <div align="center">  
-      <a href="https://github.com/gurkiratsingh-create/code_relay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=code_relay&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-      </a>
-      <br><br>
-      <p><strong>Python • Algorithms • Problem Solving</strong></p>
-      <p>Collection of coding challenges and algorithmic solutions</p>
-    </div>
-  </td>
 
   <td width="50%">
     <h3 align="center">💡 More Coming Soon...</h3>
