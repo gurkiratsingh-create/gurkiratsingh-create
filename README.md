@@ -6,8 +6,8 @@
 
 <!-- 👋 INTRO -->
 
-<h1 align="center">Hi 👋, I'm Gurkirat Singh</h1>
-<h3 align="center">🚀 Aspiring Machine Learning Engineer | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Gurkirat Singh Bhangoo</h1>
+<h3 align="center">🚀 Aspiring Artificial Intelligence & Machine Learning Engineer | Python Developer</h3>
 
 <!-- ⚡ TYPING EFFECT -->
 
