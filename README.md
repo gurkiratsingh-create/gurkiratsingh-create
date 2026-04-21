@@ -162,7 +162,17 @@ class MLEngineer:
 </tr>
 
 <tr>
-
+  <td width="50%">
+    <h3 align="center">Plagarism Detection</h3>
+    <div align="center">  
+      <a href="https://github.com/gurkiratsingh-create/hybrid-plagiarism-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gurkiratsingh-create&repo=hybrid-plagarism-detection&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      </a>
+      <br><br>
+      <p><strong>Python • Risk Modeling • Analysis</strong></p>
+      <p>Risk assessment and prediction system for project management</p>
+    </div>
+  </td>
   <td width="50%">
     <h3 align="center">💡 More Coming Soon...</h3>
     <div align="center">
