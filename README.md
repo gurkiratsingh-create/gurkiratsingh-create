@@ -1,7 +1,7 @@
 <!-- ========================= HERO ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Gurkirat%20Singh%20Bhangoo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Gurkirat%20Singh%20Bhangoo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20Making%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=800&lines=Building+AI+systems+that+solve+real+problems;Python+%7C+Machine+Learning+%7C+Full-Stack+%7C+Data;Learning+today.+Building+tomorrow.;From+student+projects+to+production-ready+systems" alt="Typing SVG" />
