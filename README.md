@@ -254,6 +254,19 @@ A practical application for storing, managing, and analyzing student marks.
 
 </td>
 <td valign="top">
+    
+**🎯 AI StudyWorkspace-Stud.xo**
+`Python` `Typescript` `React` `SQLite` `Docker`
+
+Stud.xo is an AI-powered learning workspace designed to bring AI chat, notes, documents, research, and AI memory into one unified environment.
+
+
+[View Repository →](https://github.com/gurkiratsingh-create/stud.xo--AI-study-workspace)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 **🧪 More Experiments, More Systems**
 
