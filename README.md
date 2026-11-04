@@ -25,7 +25,7 @@ class GurkiratSinghBhangoo:
         self.name = "Gurkirat Singh Bhangoo"
         self.education = "B.Tech in Artificial Intelligence & Machine Learning"
         self.university = "Chandigarh University"
-        self.current_stage = "4th Semester"
+        self.current_stage = "5th Semester"
         self.location = "Punjab, India"
 
         self.primary_language = "Python"
